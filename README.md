@@ -6,6 +6,7 @@ Se ansamblează componentele conform diagramei circuitului după care se deschid
 - SoftwareSerial
 - LedControl
 - DHT
+
 Se încarcă codul din schema EnviromentalMonitor.ino , se compilează și se încarcă pe placă.În cazul în care compilarea și încărcarea au fost realizate cu succes un mesaj de întâmpinare denumit “HELLO” va fi afișat pe matricea de LED-uri.În continuare se conectează smartpone-ul la modulul bluetooth prin intermediul aplicației “Serial Bluetooth Terminal” (Se poate descărca de pe Google Play).Din interfața aplicației se poate selecta una dintre opțiunile : 
 Tmp – pentru afișarea temperaturii
 Umd – pentru afișarea umidității
