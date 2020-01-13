@@ -14,7 +14,7 @@ Implementarea circuitului are la bază citirea unor valori de la 3 senzori (temp
  - 1 x 2K Ohm Resistor         
  - 1 x 10K Ohm Resistor
  
-# Instalare
+# Instalare și utilizare
 Se ansamblează componentele conform diagramei circuitului după care se deschide mediul de dezvoltare integrat Arduino și se începe prin instalarea librăriilor :
 - SoftwareSerial
 - LedControl
